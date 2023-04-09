@@ -43,6 +43,12 @@ const Projects = () => {
           stack='React + TS - MUI'
           href='https://www.vendasexternas.com.br/'
         />
+        <ProjectItem
+          img={img4}
+          title='My Company Portfolio'
+          stack='React + TS - ChakraUI'
+          href='https://costaweb.netlify.app/'
+        />
       </div>
     </div>
   )
